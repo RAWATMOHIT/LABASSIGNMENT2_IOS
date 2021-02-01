@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>productId</key>
+		<string>10</string>
+		<key>productName</key>
+		<string>Watch</string>
+		<key>productDescription</key>
+		<string>shows time</string>
+		<key>productProvider</key>
+		<string>Apple</string>
+		<key>productPrice</key>
+		<string>5000</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>11</string>
+		<key>productName</key>
+		<string>Iphone 11</string>
+		<key>productDescription</key>
+		<string>Mobile phone</string>
+		<key>productProvider</key>
+		<string>Apple</string>
+		<key>productPrice</key>
+		<string>100000</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>12</string>
+		<key>productName</key>
+		<string>Bluetooth speaker</string>
+		<key>productDescription</key>
+		<string>play loud sound in portable speaker through speaker </string>
+		<key>productProvider</key>
+		<string>Apple</string>
+		<key>productPrice</key>
+		<string>10000</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>13</string>
+		<key>productName</key>
+		<string>Television</string>
+		<key>productDescription</key>
+		<string>television</string>
+		<key>productProvider</key>
+		<string>samsung</string>
+		<key>productPrice</key>
+		<string>20000</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>14</string>
+		<key>productName</key>
+		<string>Refrigerator</string>
+		<key>productDescription</key>
+		<string>to store cool things in fridge</string>
+		<key>productProvider</key>
+		<string>samsung</string>
+		<key>productPrice</key>
+		<string>40000</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>15</string>
+		<key>productName</key>
+		<string>Laptop</string>
+		<key>productDescription</key>
+		<string>laptop</string>
+		<key>productProvider</key>
+		<string>samsung</string>
+		<key>productPrice</key>
+		<string>25000</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>16</string>
+		<key>productName</key>
+		<string>Earphones</string>
+		<key>productDescription</key>
+		<string>use for play sound</string>
+		<key>productProvider</key>
+		<string>samsung</string>
+		<key>productPrice</key>
+		<string>3000</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>17</string>
+		<key>productName</key>
+		<string>Hair dryer</string>
+		<key>productDescription</key>
+		<string>for hair style</string>
+		<key>productProvider</key>
+		<string>Syska</string>
+		<key>productPrice</key>
+		<string>7000</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>18</string>
+		<key>productName</key>
+		<string>Led</string>
+		<key>productDescription</key>
+		<string>light bulb</string>
+		<key>productProvider</key>
+		<string>Syska</string>
+		<key>productPrice</key>
+		<string>1000</string>
+	</dict>
+	<dict>
+		<key>productId</key>
+		<string>19</string>
+		<key>productName</key>
+		<string>Power bank</string>
+		<key>productDescription</key>
+		<string>portable charger</string>
+		<key>productProvider</key>
+		<string>Syska</string>
+		<key>productPrice</key>
+		<string>35000</string>
+	</dict>
+</array>
+</plist>
